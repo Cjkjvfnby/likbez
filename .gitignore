@@ -1,2 +1,4 @@
 *_env
 .idea
+*_venv/
+venv_*/
